@@ -4,9 +4,9 @@
 
 ### Machine Learning Engineer · Turning raw data into intelligent, predictive solutions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unnaiiss)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithunais@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://unnaiiss.in)
 
 </div>
 
@@ -65,8 +65,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Unnaiiss&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unnaiiss&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unnaiiss&theme=github_dark" alt="GitHub Stats" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unnaiiss&theme=github_dark" alt="Top Languages" height="180" />
 
 </div>
 
